@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584902332 source:c:\users\hadeel\desktop\homework 1\question1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
